@@ -1,9 +1,11 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\8,1\2\11,1\3\12,1\3\14,1\5\15,1\5\16,1\6\17,1\6\18,1\4\19,1\4\20,1\4\21,1\4\22,1\7\23,1\7\24,1\7\25,1\2\9\26,1\2\9\27,1\2\10\28,1\2\10\29,1\2\10\30,1\2\10\31,1\2\10\32,1\3\13\33,1\3\13\34,1\3\13\35
-REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14,folder15,folder16,folder17,folder18,folder19,folder20,folder21,folder22,folder23,folder24,folder25,folder26,folder27,folder28,folder29,folder30,folder31,folder32,folder33,folder34
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\8,1\2\11,1\3\12,1\3\14,1\5\15,1\5\16,1\6\17,1\6\18,1\4\19,1\4\20,1\4\21,1\4\22,1\7\23,1\7\24,1\7\25,1\2\9\26,1\2\9\27,1\2\10\28,1\2\10\29,1\2\10\30,1\2\10\31,1\2\10\32,1\3\13\33,1\3\13\34,1\3\13\35
+DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14,folder15,folder16,folder17,folder18,folder19,folder20,folder21,folder22,folder23,folder24,folder25,folder26,folder27,folder28,folder29,folder30,folder31,folder32,folder33,folder34
 
+#
 1-01 001_Introduction.mp3
 00:00:00 8:cjc123_0001
+#
 1-02 002_UNIT1_WARM-UP-40.mp3
 00:00:00 11:cjc123_0002
 00:02:71 0:
@@ -167,6 +169,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:09:40 0:
 02:09:60 27:cjc123_0082
 02:11:14 0:
+#
 1-03 003_UNIT1_SET1.mp3
 00:00:00 11:cjc123_0083
 00:02:57 0:
@@ -320,6 +323,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:47:27 0:
 02:47:56 32:cjc123_0158
 02:50:39 0:
+#
 1-04 004_UNIT1_SET2.mp3
 00:00:00 11:cjc123_0159
 00:02:49 0:
@@ -473,6 +477,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:39:20 0:
 02:39:53 32:cjc123_0234
 02:42:06 0:
+#
 1-05 005_UNIT1_SET3.mp3
 00:00:00 11:cjc123_0235
 00:02:47 0:
@@ -626,6 +631,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:44:01 0:
 02:44:33 32:cjc123_0310
 02:47:47 0:
+#
 1-06 006_UNIT1_SET4.mp3
 00:00:00 11:cjc123_0311
 00:02:45 0:
@@ -779,6 +785,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:52:14 0:
 02:52:54 32:cjc123_0386
 02:55:56 0:
+#
 1-07 007_UNIT1_SET5.mp3
 00:00:00 11:cjc123_0387
 00:02:47 0:
@@ -932,6 +939,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:44:17 0:
 02:44:50 32:cjc123_0462
 02:48:42 0:
+#
 1-08 008_UNIT1_SET6.mp3
 00:00:00 11:cjc123_0463
 00:02:71 0:
@@ -1085,6 +1093,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:56:08 0:
 02:56:53 32:cjc123_0538
 02:59:48 0:
+#
 1-09 009_UNIT1_SET7_PracticeTest1.mp3
 00:00:00 16:cjc123_0539
 00:05:03 0:
@@ -1108,6 +1117,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:23:73 0:
 00:24:08 15:cjc123_0549
 00:26:26 0:
+#
 1-10 010_UNIT1_SET7_PracticeTest2.mp3
 00:00:00 15:cjc123_0550
 00:01:11 0:
@@ -1129,6 +1139,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:19:34 0:
 00:19:36 15:cjc123_0559
 00:21:72 0:
+#
 1-11 011_UNIT1_SET7_PracticeTest3.mp3
 00:00:00 15:cjc123_0560
 00:01:17 0:
@@ -1150,6 +1161,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:18:39 0:
 00:18:66 15:cjc123_0569
 00:21:29 0:
+#
 1-12 012_UNIT1_SET7_PracticeTest4.mp3
 00:00:00 15:cjc123_0570
 00:01:17 0:
@@ -1171,6 +1183,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:20:20 0:
 00:20:24 15:cjc123_0579
 00:23:26 0:
+#
 1-13 013_UNIT1_SET7_PracticeTest5.mp3
 00:00:00 15:cjc123_0580
 00:01:17 0:
@@ -1192,6 +1205,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:19:71 0:
 00:20:10 15:cjc123_0589
 00:22:72 0:
+#
 1-14 014_UNIT2_WARM-UP-40.mp3
 00:00:00 11:cjc123_0590
 00:02:65 0:
@@ -1355,6 +1369,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:05:31 0:
 02:05:44 27:cjc123_0670
 02:06:69 0:
+#
 1-15 015_UNIT2_SET1.mp3
 00:00:00 11:cjc123_0671
 00:02:47 0:
@@ -1508,6 +1523,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:10:18 0:
 03:10:57 32:cjc123_0746
 03:15:10 0:
+#
 1-16 016_UNIT2_SET2.mp3
 00:00:00 11:cjc123_0747
 00:02:51 0:
@@ -1661,6 +1677,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:13:01 0:
 03:13:30 32:cjc123_0822
 03:16:01 0:
+#
 1-17 017_UNIT2_SET3.mp3
 00:00:00 11:cjc123_0823
 00:02:43 0:
@@ -1814,6 +1831,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:22:16 0:
 03:22:57 32:cjc123_0898
 03:27:05 0:
+#
 1-18 018_UNIT2_SET4.mp3
 00:00:00 11:cjc123_0899
 00:02:47 0:
@@ -1967,6 +1985,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:15:64 0:
 03:16:17 32:cjc123_0974
 03:19:64 0:
+#
 1-19 019_UNIT2_SET5.mp3
 00:00:00 11:cjc123_0975
 00:02:53 0:
@@ -2120,6 +2139,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:18:41 0:
 03:19:05 32:cjc123_1050
 03:23:50 0:
+#
 1-20 020_UNIT2_SET6.mp3
 00:00:00 11:cjc123_1051
 00:02:67 0:
@@ -2273,6 +2293,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:10:61 0:
 03:11:16 32:cjc123_1126
 03:14:06 0:
+#
 1-21 021_UNIT2_SET7_PracticeTest1.mp3
 00:00:00 16:cjc123_1127
 00:04:70 0:
@@ -2292,6 +2313,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:19:46 0:
 00:19:60 15:cjc123_1135
 00:21:35 0:
+#
 1-22 022_UNIT2_SET7_PracticeTest2.mp3
 00:00:00 15:cjc123_1136
 00:01:09 0:
@@ -2309,6 +2331,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:59 0:
 00:13:71 15:cjc123_1143
 00:16:57 0:
+#
 1-23 023_UNIT2_SET7_PracticeTest3.mp3
 00:00:00 15:cjc123_1144
 00:01:11 0:
@@ -2326,6 +2349,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:73 0:
 00:14:11 15:cjc123_1151
 00:16:49 0:
+#
 1-24 024_UNIT2_SET7_PracticeTest4.mp3
 00:00:00 15:cjc123_1152
 00:01:19 0:
@@ -2343,6 +2367,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:43 0:
 00:13:55 15:cjc123_1159
 00:15:54 0:
+#
 1-25 025_UNIT2_SET7_PracticeTest5.mp3
 00:00:00 15:cjc123_1160
 00:01:24 0:
@@ -2360,6 +2385,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:02 0:
 00:13:16 15:cjc123_1167
 00:15:50 0:
+#
 1-26 026_UNIT2_SET7_PracticeTest6.mp3
 00:00:00 15:cjc123_1168
 00:01:26 0:
@@ -2377,6 +2403,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:30 0:
 00:13:45 15:cjc123_1175
 00:15:32 0:
+#
 1-27 027_UNIT2_SET7_PracticeTest7.mp3
 00:00:00 15:cjc123_1176
 00:01:13 0:
@@ -2394,6 +2421,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:53 0:
 00:13:65 15:cjc123_1183
 00:15:34 0:
+#
 1-28 028_UNIT2_SET7_PracticeTest8.mp3
 00:00:00 15:cjc123_1184
 00:01:13 0:
@@ -2411,6 +2439,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:15:30 0:
 00:15:38 15:cjc123_1191
 00:17:43 0:
+#
 1-29 029_UNIT2_SET7_PracticeTest9.mp3
 00:00:00 15:cjc123_1192
 00:01:22 0:
@@ -2428,6 +2457,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:13:59 0:
 00:13:71 15:cjc123_1199
 00:15:60 0:
+#
 1-30 030_UNIT2_SET7_PracticeTest10.mp3
 00:00:00 15:cjc123_1200
 00:01:15 0:
@@ -2445,6 +2475,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:16:55 0:
 00:16:73 15:cjc123_1207
 00:20:24 0:
+#
 1-31 031_UNIT3_WARM-UP-40.mp3
 00:00:00 11:cjc123_1208
 00:02:69 0:
@@ -2608,6 +2639,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:14:49 0:
 02:15:02 27:cjc123_1288
 02:16:07 0:
+#
 1-32 032_UNIT3_SET1.mp3
 00:00:00 11:cjc123_1289
 00:02:45 0:
@@ -2761,6 +2793,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:21:36 0:
 03:21:61 32:cjc123_1364
 03:25:73 0:
+#
 1-33 033_UNIT3_SET2.mp3
 00:00:00 11:cjc123_1365
 00:02:47 0:
@@ -2914,6 +2947,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:11:08 0:
 03:11:49 32:cjc123_1440
 03:14:57 0:
+#
 1-34 034_UNIT3_SET3.mp3
 00:00:00 11:cjc123_1441
 00:02:51 0:
@@ -3067,6 +3101,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:29:70 0:
 03:30:33 32:cjc123_1516
 03:35:14 0:
+#
 1-35 035_UNIT3_SET4.mp3
 00:00:00 11:cjc123_1517
 00:02:47 0:
@@ -3220,6 +3255,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:18:37 0:
 03:19:19 32:cjc123_1592
 03:24:18 0:
+#
 100 100_UNIT4_SET5.mp3
 00:00:00 14:cjc123_1593
 00:02:55 0:
@@ -3313,6 +3349,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:07:69 0:
 02:08:45 35:cjc123_1638
 02:11:70 0:
+#
 101 101_UNIT4_SET6.mp3
 00:00:00 14:cjc123_1639
 00:02:67 0:
@@ -3406,6 +3443,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:14:08 0:
 02:14:59 35:cjc123_1684
 02:18:65 0:
+#
 102 102_UNIT5_WARM-UP-40.mp3
 00:00:00 14:cjc123_1685
 00:02:73 0:
@@ -3491,6 +3529,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:15 0:
 01:18:70 12:cjc123_1725
 01:20:12 0:
+#
 103 103_UNIT5_SET1.mp3
 00:00:00 14:cjc123_1726
 00:02:51 0:
@@ -3584,6 +3623,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:17:63 0:
 02:18:37 35:cjc123_1771
 02:22:45 0:
+#
 104 104_UNIT5_SET2.mp3
 00:00:00 14:cjc123_1772
 00:02:49 0:
@@ -3677,6 +3717,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:04:21 0:
 02:04:64 35:cjc123_1817
 02:08:74 0:
+#
 105 105_UNIT5_SET3.mp3
 00:00:00 14:cjc123_1818
 00:02:55 0:
@@ -3770,6 +3811,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:21:30 0:
 02:22:04 35:cjc123_1863
 02:26:56 0:
+#
 106 106_UNIT5_SET4.mp3
 00:00:00 14:cjc123_1864
 00:02:51 0:
@@ -3863,6 +3905,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:13:42 0:
 02:14:18 35:cjc123_1909
 02:19:54 0:
+#
 107 107_UNIT5_SET5.mp3
 00:00:00 14:cjc123_1910
 00:02:55 0:
@@ -3956,6 +3999,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:18:47 0:
 02:19:25 35:cjc123_1955
 02:25:10 0:
+#
 108 108_UNIT5_SET6.mp3
 00:00:00 14:cjc123_1956
 00:02:69 0:
@@ -4049,6 +4093,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:11:51 0:
 02:12:27 35:cjc123_2001
 02:16:24 0:
+#
 109 109_UNIT6_WARM-UP-40.mp3
 00:00:00 14:cjc123_2002
 00:02:65 0:
@@ -4132,6 +4177,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:36 0:
 01:13:10 12:cjc123_2042
 01:14:41 0:
+#
 110 110_UNIT6_SET1.mp3
 00:00:00 14:cjc123_2043
 00:02:57 0:
@@ -4225,6 +4271,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:09:24 0:
 02:10:04 35:cjc123_2088
 02:14:63 0:
+#
 111 111_UNIT6_SET2.mp3
 00:00:00 14:cjc123_2089
 00:02:49 0:
@@ -4318,6 +4365,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:06:30 0:
 02:07:04 35:cjc123_2134
 02:11:39 0:
+#
 112 112_UNIT6_SET3.mp3
 00:00:00 14:cjc123_2135
 00:02:53 0:
@@ -4411,6 +4459,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:13:26 0:
 02:13:73 35:cjc123_2180
 02:18:04 0:
+#
 113 113_UNIT6_SET4.mp3
 00:00:00 14:cjc123_2181
 00:02:53 0:
@@ -4504,6 +4553,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:19:62 0:
 02:20:42 35:cjc123_2226
 02:26:17 0:
+#
 114 114_UNIT6_SET5.mp3
 00:00:00 14:cjc123_2227
 00:02:65 0:
@@ -4597,6 +4647,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:19:01 0:
 02:19:46 35:cjc123_2272
 02:23:05 0:
+#
 115 115_UNIT6_SET6.mp3
 00:00:00 14:cjc123_2273
 00:02:69 0:
@@ -4692,6 +4743,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:25:72 0:
 02:26:50 35:cjc123_2318
 02:30:54 0:
+#
 116 116_UNIT7_WARM-UP-40.mp3
 00:00:00 14:cjc123_2319
 00:02:63 0:
@@ -4775,6 +4827,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:57 0:
 01:15:31 12:cjc123_2359
 01:16:63 0:
+#
 117 117_UNIT7_SET1.mp3
 00:00:00 14:cjc123_2360
 00:02:36 0:
@@ -4868,6 +4921,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:08:21 0:
 02:08:74 35:cjc123_2405
 02:14:63 0:
+#
 118 118_UNIT7_SET2.mp3
 00:00:00 14:cjc123_2406
 00:02:49 0:
@@ -4961,6 +5015,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:07:69 0:
 02:08:39 35:cjc123_2451
 02:12:27 0:
+#
 119 119_UNIT7_SET3.mp3
 00:00:00 14:cjc123_2452
 00:02:47 0:
@@ -5054,6 +5109,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:08:19 0:
 02:08:70 35:cjc123_2497
 02:11:35 0:
+#
 120 120_UNIT7_SET4.mp3
 00:00:00 14:cjc123_2498
 00:02:38 0:
@@ -5147,6 +5203,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:09:50 0:
 02:10:28 35:cjc123_2543
 02:15:58 0:
+#
 121 121_UNIT7_SET5.mp3
 00:00:00 14:cjc123_2544
 00:02:38 0:
@@ -5240,6 +5297,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:13:46 0:
 02:14:18 35:cjc123_2589
 02:19:46 0:
+#
 122 122_UNIT7_SET6.mp3
 00:00:00 14:cjc123_2590
 00:02:55 0:
@@ -5333,6 +5391,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:15:39 0:
 02:16:09 35:cjc123_2635
 02:22:00 0:
+#
 123 123_例文UNIT1_SET1.mp3
 00:00:00 22:cjc123_2636
 00:02:55 0:
@@ -5426,6 +5485,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:31:06 0:
 02:31:34 21:cjc123_2681
 02:34:11 0:
+#
 124 124_例文UNIT1_SET2.mp3
 00:00:00 22:cjc123_2682
 00:02:49 0:
@@ -5519,6 +5579,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:22:21 0:
 02:22:49 21:cjc123_2727
 02:24:73 0:
+#
 125 125_例文UNIT1_SET3.mp3
 00:00:00 22:cjc123_2728
 00:02:47 0:
@@ -5612,6 +5673,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:27:48 0:
 02:28:00 21:cjc123_2773
 02:31:03 0:
+#
 126 126_例文UNIT1_SET4.mp3
 00:00:00 22:cjc123_2774
 00:02:40 0:
@@ -5705,6 +5767,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:38:59 0:
 02:39:16 21:cjc123_2819
 02:43:25 0:
+#
 127 127_例文UNIT1_SET5.mp3
 00:00:00 22:cjc123_2820
 00:02:47 0:
@@ -5798,6 +5861,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:34:56 0:
 02:35:06 21:cjc123_2865
 02:38:24 0:
+#
 128 128_例文UNIT1_SET6.mp3
 00:00:00 22:cjc123_2866
 00:02:71 0:
@@ -5891,6 +5955,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:38:67 0:
 02:39:20 21:cjc123_2911
 02:41:58 0:
+#
 129 129_例文UNIT2_SET1.mp3
 00:00:00 22:cjc123_2912
 00:02:47 0:
@@ -5984,6 +6049,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:02:30 0:
 03:02:60 21:cjc123_2957
 03:07:04 0:
+#
 130 130_例文UNIT2_SET2.mp3
 00:00:00 22:cjc123_2958
 00:02:51 0:
@@ -6077,6 +6143,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:06:24 0:
 03:06:50 21:cjc123_3003
 03:09:15 0:
+#
 131 131_例文UNIT2_SET3.mp3
 00:00:00 22:cjc123_3004
 00:02:43 0:
@@ -6170,6 +6237,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:18:69 0:
 03:19:23 21:cjc123_3049
 03:22:61 0:
+#
 132 132_例文UNIT2_SET4.mp3
 00:00:00 22:cjc123_3050
 00:02:47 0:
@@ -6263,6 +6331,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:09:68 0:
 03:10:22 21:cjc123_3095
 03:14:02 0:
+#
 133 133_例文UNIT2_SET5.mp3
 00:00:00 22:cjc123_3096
 00:02:53 0:
@@ -6356,6 +6425,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:16:19 0:
 03:16:46 21:cjc123_3141
 03:20:36 0:
+#
 134 134_例文UNIT2_SET6.mp3
 00:00:00 22:cjc123_3142
 00:02:67 0:
@@ -6449,6 +6519,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:04:41 0:
 03:04:69 21:cjc123_3187
 03:07:51 0:
+#
 135 135_例文UNIT3_SET1.mp3
 00:00:00 22:cjc123_3188
 00:02:47 0:
@@ -6542,6 +6613,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:16:07 0:
 03:16:35 21:cjc123_3233
 03:19:62 0:
+#
 136 136_例文UNIT3_SET2.mp3
 00:00:00 22:cjc123_3234
 00:02:47 0:
@@ -6635,6 +6707,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:05:64 0:
 03:06:15 21:cjc123_3279
 03:08:70 0:
+#
 137 137_例文UNIT3_SET3.mp3
 00:00:00 22:cjc123_3280
 00:02:51 0:
@@ -6728,6 +6801,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:28:32 0:
 03:28:61 21:cjc123_3325
 03:32:49 0:
+#
 138 138_例文UNIT3_SET4.mp3
 00:00:00 22:cjc123_3326
 00:02:45 0:
@@ -6821,6 +6895,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:13:15 0:
 03:13:42 21:cjc123_3371
 03:18:24 0:
+#
 139 139_例文UNIT3_SET5.mp3
 00:00:00 22:cjc123_3372
 00:02:53 0:
@@ -6912,6 +6987,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:55:46 0:
 02:55:74 21:cjc123_3416
 02:58:42 0:
+#
 140 140_例文UNIT3_SET6.mp3
 00:00:00 22:cjc123_3417
 00:02:59 0:
@@ -7005,6 +7081,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:45:03 0:
 03:45:34 21:cjc123_3462
 03:50:18 0:
+#
 141 141_例文UNIT4_SET1.mp3
 00:00:00 22:cjc123_3463
 00:02:47 0:
@@ -7098,6 +7175,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:45:60 0:
 03:46:10 21:cjc123_3508
 03:49:42 0:
+#
 142 142_例文UNIT4_SET2.mp3
 00:00:00 22:cjc123_3509
 00:02:53 0:
@@ -7191,6 +7269,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:02:03 0:
 04:02:29 21:cjc123_3554
 04:06:50 0:
+#
 143 143_例文UNIT4_SET3.mp3
 00:00:00 22:cjc123_3555
 00:02:45 0:
@@ -7284,6 +7363,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:42:12 0:
 03:42:50 21:cjc123_3600
 03:45:36 0:
+#
 144 144_例文UNIT4_SET4.mp3
 00:00:00 22:cjc123_3601
 00:02:57 0:
@@ -7377,6 +7457,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:40:64 0:
 03:41:17 21:cjc123_3646
 03:45:17 0:
+#
 145 145_例文UNIT4_SET5.mp3
 00:00:00 22:cjc123_3647
 00:02:55 0:
@@ -7470,6 +7551,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:54:29 0:
 03:54:55 21:cjc123_3692
 03:58:07 0:
+#
 146 146_例文UNIT4_SET6.mp3
 00:00:00 22:cjc123_3693
 00:02:67 0:
@@ -7563,6 +7645,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:56:30 0:
 03:56:60 21:cjc123_3738
 04:00:67 0:
+#
 147 147_例文UNIT5_SET1.mp3
 00:00:00 22:cjc123_3739
 00:02:51 0:
@@ -7656,6 +7739,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:20:11 0:
 04:20:42 21:cjc123_3784
 04:24:50 0:
+#
 148 148_例文UNIT5_SET2.mp3
 00:00:00 22:cjc123_3785
 00:02:49 0:
@@ -7749,6 +7833,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:41:56 0:
 03:42:08 21:cjc123_3830
 03:46:16 0:
+#
 149 149_例文UNIT5_SET3.mp3
 00:00:00 22:cjc123_3831
 00:02:55 0:
@@ -7842,6 +7927,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:34:70 0:
 04:35:22 21:cjc123_3876
 04:39:73 0:
+#
 150 150_例文UNIT5_SET4.mp3
 00:00:00 22:cjc123_3877
 00:02:51 0:
@@ -7935,6 +8021,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:09:39 0:
 04:09:68 21:cjc123_3922
 04:15:29 0:
+#
 151 151_例文UNIT5_SET5.mp3
 00:00:00 22:cjc123_3923
 00:02:55 0:
@@ -8028,6 +8115,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:25:20 0:
 04:25:53 21:cjc123_3968
 04:31:40 0:
+#
 152 152_例文UNIT5_SET6.mp3
 00:00:00 22:cjc123_3969
 00:02:67 0:
@@ -8121,6 +8209,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:55:46 0:
 03:55:74 21:cjc123_4014
 03:59:74 0:
+#
 153 153_例文UNIT6_SET1.mp3
 00:00:00 22:cjc123_4015
 00:02:59 0:
@@ -8214,6 +8303,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:54:59 0:
 03:55:11 21:cjc123_4060
 03:59:56 0:
+#
 154 154_例文UNIT6_SET2.mp3
 00:00:00 22:cjc123_4061
 00:02:49 0:
@@ -8307,6 +8397,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:50:37 0:
 03:50:63 21:cjc123_4106
 03:55:25 0:
+#
 155 155_例文UNIT6_SET3.mp3
 00:00:00 22:cjc123_4107
 00:02:53 0:
@@ -8400,6 +8491,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:05:25 0:
 04:05:53 21:cjc123_4152
 04:09:60 0:
+#
 156 156_例文UNIT6_SET4.mp3
 00:00:00 22:cjc123_4153
 00:02:51 0:
@@ -8493,6 +8585,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:59:70 0:
 04:00:30 21:cjc123_4198
 04:06:05 0:
+#
 157 157_例文UNIT6_SET5.mp3
 00:00:00 22:cjc123_4199
 00:02:65 0:
@@ -8586,6 +8679,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:05:02 0:
 04:05:35 21:cjc123_4244
 04:08:71 0:
+#
 158 158_例文UNIT6_SET6.mp3
 00:00:00 22:cjc123_4245
 00:02:69 0:
@@ -8679,6 +8773,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:44:70 0:
 04:45:25 21:cjc123_4290
 04:49:26 0:
+#
 159 159_例文UNIT7_SET1.mp3
 00:00:00 22:cjc123_4291
 00:02:38 0:
@@ -8772,6 +8867,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:51:52 0:
 03:52:05 21:cjc123_4336
 03:57:71 0:
+#
 160 160_例文UNIT7_SET2.mp3
 00:00:00 22:cjc123_4337
 00:02:45 0:
@@ -8865,6 +8961,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:50:08 0:
 03:50:37 21:cjc123_4382
 03:54:27 0:
+#
 161 161_例文UNIT7_SET3.mp3
 00:00:00 22:cjc123_4383
 00:02:47 0:
@@ -8958,6 +9055,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:49:71 0:
 03:50:26 21:cjc123_4428
 03:52:68 0:
+#
 162 162_例文UNIT7_SET4.mp3
 00:00:00 22:cjc123_4429
 00:02:38 0:
@@ -9051,6 +9149,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:59:68 0:
 04:00:24 21:cjc123_4474
 04:05:55 0:
+#
 163 163_例文UNIT7_SET5.mp3
 00:00:00 22:cjc123_4475
 00:02:40 0:
@@ -9144,6 +9243,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:22:12 0:
 04:22:55 21:cjc123_4520
 04:28:11 0:
+#
 164 164_例文UNIT7_SET6.mp3
 00:00:00 22:cjc123_4521
 00:02:55 0:
@@ -9237,6 +9337,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:19:17 0:
 04:19:45 21:cjc123_4566
 04:25:38 0:
+#
 165 165_熟語UNIT6_SET3.mp3
 00:00:00 25:cjc123_4567
 00:02:53 0:
@@ -9300,6 +9401,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:06 0:
 01:25:60 24:cjc123_4597
 01:27:18 0:
+#
 166 166_熟語UNIT6_SET4.mp3
 00:00:00 25:cjc123_4598
 00:02:55 0:
@@ -9363,6 +9465,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:61 0:
 01:43:49 24:cjc123_4628
 01:45:08 0:
+#
 167 167_熟語UNIT6_SET5.mp3
 00:00:00 25:cjc123_4629
 00:02:67 0:
@@ -9426,6 +9529,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:36 0:
 01:37:17 24:cjc123_4659
 01:39:51 0:
+#
 2-36 036_UNIT3_SET5.mp3
 00:00:00 11:cjc123_4660
 00:02:53 0:
@@ -9579,6 +9683,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:08:25 0:
 03:08:59 32:cjc123_4735
 03:11:67 0:
+#
 2-37 037_UNIT3_SET6.mp3
 00:00:00 11:cjc123_4736
 00:02:57 0:
@@ -9732,6 +9837,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:38:18 0:
 03:38:62 32:cjc123_4811
 03:44:33 0:
+#
 2-38 038_UNIT3_SET7_PracticeTest1-3.mp3
 00:00:00 16:cjc123_4812
 00:05:18 0:
@@ -9760,6 +9866,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:43 0:
 01:18:68 15:cjc123_4829
 01:21:69 0:
+#
 2-39 039_UNIT3_SET7_PracticeTest4-6.mp3
 00:00:00 15:cjc123_4830
 00:04:09 0:
@@ -9786,6 +9893,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:00 0:
 01:21:06 15:cjc123_4846
 01:23:58 0:
+#
 2-40 040_UNIT3_SET7_PracticeTest7-9.mp3
 00:00:00 15:cjc123_4847
 00:05:01 0:
@@ -9813,6 +9921,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:28 0:
 01:13:53 15:cjc123_4864
 01:17:12 0:
+#
 2-41 041_UNIT4_WARM-UP-40.mp3
 00:00:00 11:cjc123_4865
 00:02:65 0:
@@ -9976,6 +10085,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:09:62 0:
 02:10:10 27:cjc123_4945
 02:11:39 0:
+#
 2-42 042_UNIT4_SET1.mp3
 00:00:00 11:cjc123_4946
 00:02:47 0:
@@ -10129,6 +10239,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:40:35 0:
 03:40:70 32:cjc123_5021
 03:44:54 0:
+#
 2-43 043_UNIT4_SET2.mp3
 00:00:00 11:cjc123_5022
 00:02:53 0:
@@ -10282,6 +10393,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:53:34 0:
 03:53:67 32:cjc123_5097
 03:58:27 0:
+#
 2-44 044_UNIT4_SET3.mp3
 00:00:00 11:cjc123_5098
 00:02:47 0:
@@ -10435,6 +10547,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:46:28 0:
 03:46:53 32:cjc123_5173
 03:49:28 0:
+#
 2-45 045_UNIT4_SET4.mp3
 00:00:00 11:cjc123_5174
 00:02:57 0:
@@ -10588,6 +10701,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:38:73 0:
 03:39:30 32:cjc123_5249
 03:44:03 0:
+#
 2-46 046_UNIT4_SET5.mp3
 00:00:00 11:cjc123_5250
 00:02:55 0:
@@ -10741,6 +10855,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:47:04 0:
 03:47:43 32:cjc123_5325
 03:51:13 0:
+#
 2-47 047_UNIT4_SET6.mp3
 00:00:00 11:cjc123_5326
 00:02:67 0:
@@ -10894,6 +11009,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:46:71 0:
 03:47:27 32:cjc123_5401
 03:51:11 0:
+#
 2-48 048_UNIT4_SET7_PracticeTest1-3.mp3
 00:00:00 16:cjc123_5402
 00:05:03 0:
@@ -10919,6 +11035,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:10 0:
 01:21:29 15:cjc123_5416
 01:24:69 0:
+#
 2-49 049_UNIT4_SET7_PracticeTest4-6.mp3
 00:00:00 15:cjc123_5417
 00:04:03 0:
@@ -10942,6 +11059,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:46 0:
 01:38:00 15:cjc123_5430
 01:41:38 0:
+#
 2-50 050_UNIT4_SET7_PracticeTest7-9.mp3
 00:00:00 15:cjc123_5431
 00:03:37 0:
@@ -10968,6 +11086,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:23 0:
 01:36:31 15:cjc123_5447
 01:40:01 0:
+#
 2-51 051_LISTENING_SECTION_Review.mp3
 00:00:00 18:cjc123_5448
 00:02:43 0:
@@ -11055,6 +11174,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:56 0:
 01:08:68 17:cjc123_5490
 01:10:04 0:
+#
 2-52 052_UNIT5_WARM-UP-40.mp3
 00:00:00 11:cjc123_5491
 00:02:67 0:
@@ -11218,6 +11338,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:16:26 0:
 02:16:48 27:cjc123_5571
 02:18:18 0:
+#
 2-53 053_UNIT5_SET1.mp3
 00:00:00 11:cjc123_5572
 00:02:51 0:
@@ -11371,6 +11492,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:06:09 0:
 04:06:56 32:cjc123_5647
 04:11:12 0:
+#
 2-54 054_UNIT5_SET2.mp3
 00:00:00 11:cjc123_5648
 00:02:47 0:
@@ -11524,6 +11646,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:38:18 0:
 03:38:60 32:cjc123_5723
 03:42:55 0:
+#
 2-55 055_UNIT5_SET3.mp3
 00:00:00 11:cjc123_5724
 00:02:53 0:
@@ -11677,6 +11800,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:10:66 0:
 04:11:26 32:cjc123_5799
 04:16:29 0:
+#
 2-56 056_UNIT5_SET4.mp3
 00:00:00 11:cjc123_5800
 00:02:51 0:
@@ -11830,6 +11954,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:55:70 0:
 03:56:36 32:cjc123_5875
 04:01:72 0:
+#
 2-57 057_UNIT5_SET5.mp3
 00:00:00 11:cjc123_5876
 00:02:55 0:
@@ -11983,6 +12108,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:09:31 0:
 04:09:62 32:cjc123_5951
 04:14:67 0:
+#
 2-58 058_UNIT5_SET6.mp3
 00:00:00 11:cjc123_5952
 00:02:69 0:
@@ -12136,6 +12262,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:47:33 0:
 03:47:64 32:cjc123_6027
 03:50:63 0:
+#
 2-59 059_UNIT6_WARM-UP-40.mp3
 00:00:00 11:cjc123_6028
 00:02:65 0:
@@ -12299,6 +12426,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:12:11 0:
 02:12:36 27:cjc123_6108
 02:13:65 0:
+#
 60 060_UNIT6_SET1.mp3
 00:00:00 11:cjc123_6109
 00:02:59 0:
@@ -12452,6 +12580,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:40:19 0:
 03:40:53 32:cjc123_6184
 03:45:22 0:
+#
 61 061_UNIT6_SET2.mp3
 00:00:00 11:cjc123_6185
 00:02:49 0:
@@ -12605,6 +12734,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:39:59 0:
 03:40:17 32:cjc123_6260
 03:44:21 0:
+#
 62 062_UNIT6_SET3.mp3
 00:00:00 11:cjc123_6261
 00:02:53 0:
@@ -12758,6 +12888,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:52:03 0:
 03:52:36 32:cjc123_6336
 03:56:71 0:
+#
 63 063_UNIT6_SET4.mp3
 00:00:00 11:cjc123_6337
 00:02:55 0:
@@ -12911,6 +13042,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:04:63 0:
 04:05:09 32:cjc123_6412
 04:10:24 0:
+#
 64 064_UNIT6_SET5.mp3
 00:00:00 11:cjc123_6413
 00:02:67 0:
@@ -13064,6 +13196,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:07:06 0:
 04:07:34 32:cjc123_6488
 04:11:08 0:
+#
 65 065_UNIT6_SET6.mp3
 00:00:00 11:cjc123_6489
 00:02:67 0:
@@ -13217,6 +13350,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:21:28 0:
 04:21:46 32:cjc123_6564
 04:26:16 0:
+#
 66 066_UNIT7_WARM-UP-40.mp3
 00:00:00 11:cjc123_6565
 00:02:63 0:
@@ -13380,6 +13514,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:17:18 0:
 02:17:38 27:cjc123_6645
 02:18:57 0:
+#
 67 067_UNIT7_SET1.mp3
 00:00:00 11:cjc123_6646
 00:02:38 0:
@@ -13533,6 +13668,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:43:37 0:
 03:43:53 32:cjc123_6721
 03:48:36 0:
+#
 68 068_UNIT7_SET2.mp3
 00:00:00 11:cjc123_6722
 00:02:49 0:
@@ -13686,6 +13822,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:48:58 0:
 03:49:32 32:cjc123_6797
 03:54:55 0:
+#
 69 069_UNIT7_SET3.mp3
 00:00:00 11:cjc123_6798
 00:02:51 0:
@@ -13839,6 +13976,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:44:03 0:
 03:44:39 32:cjc123_6873
 03:47:41 0:
+#
 70 070_UNIT7_SET4.mp3
 00:00:00 11:cjc123_6874
 00:02:38 0:
@@ -13992,6 +14130,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:46:08 0:
 03:46:43 32:cjc123_6949
 03:52:19 0:
+#
 71 071_UNIT7_SET5.mp3
 00:00:00 11:cjc123_6950
 00:02:40 0:
@@ -14145,6 +14284,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:02:31 0:
 04:02:72 32:cjc123_7025
 04:08:10 0:
+#
 72 072_UNIT7_SET6.mp3
 00:00:00 11:cjc123_7026
 00:02:55 0:
@@ -14298,6 +14438,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:57:39 0:
 03:58:04 32:cjc123_7101
 04:05:23 0:
+#
 73 073_READING_SECTION_Review.mp3
 00:00:00 18:cjc123_7102
 00:02:36 0:
@@ -14385,6 +14526,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:45 0:
 01:10:61 17:cjc123_7144
 01:12:19 0:
+#
 74 074_UNIT1_WARM-UP-40.mp3
 00:00:00 14:cjc123_7145
 00:02:69 0:
@@ -14468,6 +14610,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:12 0:
 01:13:71 12:cjc123_7185
 01:15:29 0:
+#
 75 075_UNIT1_SET1.mp3
 00:00:00 14:cjc123_7186
 00:02:57 0:
@@ -14561,6 +14704,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:73 0:
 01:38:36 35:cjc123_7231
 01:41:12 0:
+#
 76 076_UNIT1_SET2.mp3
 00:00:00 14:cjc123_7232
 00:02:49 0:
@@ -14654,6 +14798,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:61 0:
 01:32:39 35:cjc123_7277
 01:34:63 0:
+#
 77 077_UNIT1_SET3.mp3
 00:00:00 14:cjc123_7278
 00:02:47 0:
@@ -14747,6 +14892,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:41 0:
 01:32:19 35:cjc123_7323
 01:35:18 0:
+#
 78 078_UNIT1_SET4.mp3
 00:00:00 14:cjc123_7324
 00:02:45 0:
@@ -14840,6 +14986,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:42 0:
 01:41:32 35:cjc123_7369
 01:45:44 0:
+#
 79 079_UNIT1_SET5.mp3
 00:00:00 14:cjc123_7370
 00:02:43 0:
@@ -14933,6 +15080,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:28 0:
 01:38:06 35:cjc123_7415
 01:41:22 0:
+#
 80 080_UNIT1_SET6.mp3
 00:00:00 14:cjc123_7416
 00:02:71 0:
@@ -15026,6 +15174,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:59 0:
 01:43:37 35:cjc123_7461
 01:45:73 0:
+#
 81 081_UNIT2_WARM-UP-40.mp3
 00:00:00 14:cjc123_7462
 00:02:65 0:
@@ -15109,6 +15258,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:41 0:
 01:11:15 12:cjc123_7502
 01:12:23 0:
+#
 82 082_UNIT2_SET1.mp3
 00:00:00 14:cjc123_7503
 00:02:47 0:
@@ -15202,6 +15352,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:48:48 0:
 01:49:24 35:cjc123_7548
 01:53:41 0:
+#
 83 083_UNIT2_SET2.mp3
 00:00:00 14:cjc123_7549
 00:02:51 0:
@@ -15297,6 +15448,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:62 0:
 01:56:36 35:cjc123_7594
 01:59:01 0:
+#
 84 084_UNIT2_SET3.mp3
 00:00:00 14:cjc123_7595
 00:02:43 0:
@@ -15392,6 +15544,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:18 0:
 01:55:63 35:cjc123_7640
 01:59:20 0:
+#
 85 085_UNIT2_SET4.mp3
 00:00:00 14:cjc123_7641
 00:02:47 0:
@@ -15485,6 +15638,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:51:40 0:
 01:52:12 35:cjc123_7686
 01:55:69 0:
+#
 86 086_UNIT2_SET5.mp3
 00:00:00 14:cjc123_7687
 00:02:53 0:
@@ -15578,6 +15732,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:54:29 0:
 01:55:13 35:cjc123_7732
 01:59:01 0:
+#
 87 087_UNIT2_SET6.mp3
 00:00:00 14:cjc123_7733
 00:02:67 0:
@@ -15671,6 +15826,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:49:00 0:
 01:49:51 35:cjc123_7778
 01:52:30 0:
+#
 88 088_UNIT3_WARM-UP-40.mp3
 00:00:00 14:cjc123_7779
 00:02:71 0:
@@ -15754,6 +15910,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:67 0:
 01:14:47 12:cjc123_7819
 01:15:56 0:
+#
 89 089_UNIT3_SET1.mp3
 00:00:00 14:cjc123_7820
 00:02:47 0:
@@ -15847,6 +16004,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:53:25 0:
 01:54:05 35:cjc123_7865
 01:57:31 0:
+#
 90 090_UNIT3_SET2.mp3
 00:00:00 14:cjc123_7866
 00:02:47 0:
@@ -15940,6 +16098,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:48:67 0:
 01:49:35 35:cjc123_7911
 01:52:14 0:
+#
 91 091_UNIT3_SET3.mp3
 00:00:00 14:cjc123_7912
 00:02:51 0:
@@ -16033,6 +16192,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:01:66 0:
 02:02:38 35:cjc123_7957
 02:06:26 0:
+#
 92 092_UNIT3_SET4.mp3
 00:00:00 14:cjc123_7958
 00:02:47 0:
@@ -16126,6 +16286,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:52:57 0:
 01:53:25 35:cjc123_8003
 01:58:05 0:
+#
 93 093_UNIT3_SET5.mp3
 00:00:00 14:cjc123_8004
 00:02:51 0:
@@ -16219,6 +16380,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:50:15 0:
 01:50:66 35:cjc123_8049
 01:53:33 0:
+#
 94 094_UNIT3_SET6.mp3
 00:00:00 14:cjc123_8050
 00:02:59 0:
@@ -16312,6 +16474,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:01:11 0:
 02:01:56 35:cjc123_8095
 02:06:40 0:
+#
 95 095_UNIT4_WARM-UP-40.mp3
 00:00:00 14:cjc123_8096
 00:02:63 0:
@@ -16395,6 +16558,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:18 0:
 01:14:06 12:cjc123_8136
 01:15:15 0:
+#
 96 096_UNIT4_SET1.mp3
 00:00:00 14:cjc123_8137
 00:02:47 0:
@@ -16488,6 +16652,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:00:53 0:
 02:01:27 35:cjc123_8182
 02:04:59 0:
+#
 97 097_UNIT4_SET2.mp3
 00:00:00 14:cjc123_8183
 00:02:53 0:
@@ -16581,6 +16746,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:11:35 0:
 02:12:09 35:cjc123_8228
 02:16:28 0:
+#
 98 098_UNIT4_SET3.mp3
 00:00:00 14:cjc123_8229
 00:02:45 0:
@@ -16674,6 +16840,7 @@ REM DIRNAME cjc123,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:04:64 0:
 02:05:40 35:cjc123_8274
 02:08:27 0:
+#
 99 099_UNIT4_SET4.mp3
 00:00:00 14:cjc123_8275
 00:02:55 0:
